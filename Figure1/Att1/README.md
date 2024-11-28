@@ -1,4 +1,4 @@
-The OCT numerical phantom used for Fig.4 Attenuation 1% in the following paper:
+The OCT numerical phantom used for Fig.1 Attenuation 1% in the following paper:
 
 Lev A Matveev, Alexander A Sovetsky, Alexander L Matveyev, I Alex Vitkin, Maher Assaad and Vladimir Y Zaitsev
 Refined speckle contrast estimation in OCT based on compensation of scattering-related distortions of speckle pattern parameters 
