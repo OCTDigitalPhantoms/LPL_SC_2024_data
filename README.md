@@ -6,4 +6,6 @@ When using for your purposes, please cite the above-mentioned paper.
 
 The OCT digital phantom cloud-based simulation tool can be found on the OpticElastograph platform: https://www.opticelastograph.com/
 
+You may feed the Scatterers-*.dat file and the parameters from Configuration.ini into the OCT scan generation tool. To avoid server overload, registration is required. You can sign up and request full access to the platform by contacting the authors via email.
+
 Acknowledgments: Generation of simulated datasets and numerical testing was supported by the Ajman University, Grant No 2023-IRG-ENIT-44.
