@@ -1,4 +1,4 @@
-This is enxtra OCT numerical phantom not used in the paper.
+This is an extra OCT numerical phantom not used in the paper.
 However, it is generated with approach described here:
 
 Lev A Matveev, Alexander A Sovetsky, Alexander L Matveyev, I Alex Vitkin, Maher Assaad and Vladimir Y Zaitsev Refined speckle contrast estimation in OCT based on compensation of scattering-related distortions of speckle pattern parameters Laser Physics Letters 22(1), 015601 (2025) https://doi.org/10.1088/1612-202X/ad9149
